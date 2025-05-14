@@ -23,4 +23,4 @@
 
 
 
-![snake gif](https://github.com/YOUR_USERNAME/mahmutsaskn/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mahmutsaskn/mahmutsaskn/blob/output/github-contribution-grid-snake.gif)
