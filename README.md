@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pngkey.com/maxpic/u2w7e6w7y3r5u2w7/)
+
 <h1 align="center">Merhaba 👋, ben Mahmut Şaşkın</h1>
 <h3 align="center">Türkiye'den tutkulu bir ön yüz geliştiricisi</h3>
 
